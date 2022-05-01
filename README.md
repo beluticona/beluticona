@@ -7,6 +7,7 @@
 - 🔬 I'm starting my research career. Topics I'm reading/writting about are:
     - ML for Chemistry
     - Didactics in CS Education
+    - NLP
 - 💞️ I’m looking to collaborate on activities related to:
   - ML competition
   - empowering minorities in technology
