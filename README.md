@@ -3,7 +3,7 @@
 - Hi, I’m **Belu Ticona**.
 - Recently, I've graduated from the University of Buenos Aires, my thesis dissertion was about applied ML in chemistry, studing metric robustness for small datasets in experimental sciences.
 - 👀 Interested in ML, education and open science.
-- 🌱 I’m learning about MLOps and low-resource languages
+- 🌱 I’m learning about low-resource languages and socialNLP.
 - 🔬 Topics I'm reading/writting about are:
     - NLP/ML in general
     - Indigenous/natives in tech
@@ -11,6 +11,7 @@
   - CS outreach 
   - empowering minorities in tech
   - CS applied to Social Sciences
+- ✨ I enjoy dancing, hiking and teaching
   
 Don't be shide and let's talk!
 <!---
